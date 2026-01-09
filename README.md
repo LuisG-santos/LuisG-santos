@@ -56,7 +56,7 @@ Sistema de agendamentos para barbearias com suporte a múltiplos estabelecimento
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-🔗 Repositório: https://github.com/LuisG-santos/bookup 
+🔗 Repositório: https://github.com/LuisG-santos/belivio 
 
 ---
 
