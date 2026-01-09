@@ -70,4 +70,7 @@ Sistema de agendamentos para barbearias com suporte a múltiplos estabelecimento
 
 ## Contato
 Email: luisgustavo.nunes@icloud.com
-LinkedIn: www.linkedin.com/in/luisgustavo-nunes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavo-nunes)
+
+
