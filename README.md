@@ -15,15 +15,15 @@ Desenvolvedor Web com foco em aplicações modernas utilizando Next.js, React e 
 
 ## Stack Principal
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Prisma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-  <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+<div style="display: inline-block">
+  <img align="center" alt="Next" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Prisma" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+  <img align="center" alt="TailwindCSS" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ---
@@ -47,6 +47,23 @@ Sistema de agendamentos para barbearias com suporte a múltiplos estabelecimento
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+--
+### [Product Control](https://github.com/LuisG-santos/Product-Control)
+Sistema web de gestão de estoque com cadastro de produtos, registro de vendas e atualização automática do estoque. Dashboard para análise de métricas em desenvolvimento.
+
+**Principais características:**
+- Cadastro e edição de produtos  
+- Registro de vendas com baixa automática no estoque  
+- Interface moderna e responsiva  
+- Dashboard de métricas (em desenvolvimento)
+
+**Tecnologias:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -55,7 +72,8 @@ Sistema de agendamentos para barbearias com suporte a múltiplos estabelecimento
 - Arquitetura de aplicações web escaláveis
 - Boas práticas em APIs com TypeScript  
 - Otimização de performance em React/Next.js
-- Clean Code e Design Patterns
+- Iniciando em Java + Spring Boot
+- Clean Code
 
 ---
 
