@@ -1,6 +1,6 @@
 # Luis Gustavo
 
-Desenvolvedor Web com foco em aplicações modernas utilizando Next.js e TypeScript.
+Desenvolvedor Web com foco em aplicações modernas utilizando Next.js, React e TypeScript.
 
 ---
 
