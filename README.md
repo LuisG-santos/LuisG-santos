@@ -73,7 +73,6 @@ Sistema web de gestão de estoque com cadastro de produtos, registro de vendas e
 - Arquitetura de aplicações web escaláveis
 - Boas práticas em APIs com TypeScript  
 - Otimização de performance em React/Next.js
-- Iniciando em Java + Spring Boot
 - Clean Code
 
 ---
