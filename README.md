@@ -1,7 +1,7 @@
 # Luís Gustavo — Desenvolvedor Web
 
 Desenvolvedor web com experiência prática em aplicações fullstack — do design da API ao deploy em produção.  
-Atualmente construindo o **AgroGestor**, uma plataforma SaaS para o agronegócio, e atuando como único dev frontend no **GUNP**, um sistema de monitoramento industrial com contexto de produto real.
+Atualmente construindo o **SpoDop**, uma plataforma SaaS para o agronegócio, e atuando como único dev frontend no **GUNP**, um sistema de monitoramento industrial com contexto de produto real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavo-nunes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisgustavo.nunes@icloud.com)
