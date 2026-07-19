@@ -1,4 +1,4 @@
-# Luís Gustavo — Desenvolvedor Web
+# Luis Gustavo Nunes — Desenvolvedor Web
 
 Desenvolvedor web com experiência prática em aplicações fullstack — do design da API ao deploy em produção.  
 Atualmente construindo o **SpoDop**, uma plataforma SaaS para o agronegócio, e atuando como único dev frontend no **GUNP**, um sistema de monitoramento industrial com contexto de produto real.
